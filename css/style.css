@@ -221,7 +221,7 @@ body{
         margin-bottom: 30px;
         max-width: 100%; 
         height: 670px; 
-        background-image: url(../img/mainvisual.png);
+        background-image: url(mainvisual.png);
         background-position: center;
         background-size: cover; 
         position: relative; 
@@ -472,7 +472,7 @@ body{
         width: 100%;
         height: fit-content;
         box-sizing: border-box;
-        background-image: url(../img/beer_bg.png);
+        background-image: url(../beer_bg.png);
         background-size: contain; 
         background-repeat:repeat;
         padding-top: 10px;
@@ -489,7 +489,7 @@ body{
         width: 100%;
         height: fit-content;
         box-sizing: border-box;
-        background-image: url(../img/coke_bg.png);
+        background-image: url(../coke_bg.png);
         background-size: contain; 
         background-repeat:repeat;
         padding-top: 10px;
@@ -505,7 +505,7 @@ body{
         width: 100%;
         height: fit-content;
         box-sizing: border-box;
-        background-image: url(../img/ginger_bg.png);
+        background-image: url(../ginger_bg.png);
         background-size: contain;
         background-repeat:repeat;
         padding-top: 10px;
@@ -521,7 +521,7 @@ body{
         width: 100%;
         height: fit-content;
         box-sizing: border-box;
-        background-image: url(../img/coffee_bg.png);
+        background-image: url(../coffee_bg.png);
         background-size: contain;
         background-repeat:repeat;
         padding-top: 10px;
@@ -646,7 +646,7 @@ body{
     .aboutus_cnt{
         width:100%;
         height: fit-content;
-        background-image: url(../img/us_bg.png);
+        background-image: url(../us_bg.png);
         background-size: contain; 
         background-repeat:repeat;
         padding-top: 30px;
