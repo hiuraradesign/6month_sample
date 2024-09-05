@@ -472,7 +472,7 @@ body{
         width: 100%;
         height: fit-content;
         box-sizing: border-box;
-        background-image: url(../img/beer_bg.png);
+        background-image: url(./beer_bg.png);
         background-size: contain; 
         background-repeat:repeat;
         padding-top: 10px;
