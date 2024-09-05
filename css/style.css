@@ -220,11 +220,17 @@ body{
     .mainvisual_wrap {
         margin-bottom: 30px;
         max-width: 100%; 
-        height: 670px; 
+        height:670px; 
         background-image: url(../img/mainvisual.png);
         background-position: center;
         background-size: cover; 
         position: relative; 
+    }
+
+    @media (min-width: 789px) {
+        .mainvisual_wrap{
+            height: 100vh;
+            }
     }
     
     .mainvisual_ttl {
